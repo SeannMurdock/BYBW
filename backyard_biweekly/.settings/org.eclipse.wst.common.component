@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="backyard_biweekly">
+        <wb-resource deploy-path="/" source-path="/WebContent"/>
+        <property name="context-root" value="backyard_biweekly"/>
+    </wb-module>
+</project-modules>
